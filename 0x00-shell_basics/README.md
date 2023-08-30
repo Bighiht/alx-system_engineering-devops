@@ -26,3 +26,6 @@ To run the script, make it executable with the command:
 This script (`6-firstdirectory`) is a basic shell script that creates a directory named `my_first_directory` in the `/tmp/` directory when executed.
 To run the script, make it executable with the command:
 
+# Task 8: Delete a File
+This script (`8-firstdelete`) is a basic shell script that deletes the file named `betty` from `/tmp/my_first_directory/` when executed.
+To run the script, make it executable with the command:
