@@ -29,3 +29,7 @@ To run the script, make it executable with the command:
 # Task 8: Delete a File
 This script (`8-firstdelete`) is a basic shell script that deletes the file named `betty` from `/tmp/my_first_directory/` when executed.
 To run the script, make it executable with the command:
+
+# Task 9: Delete a Directory
+This script (`9-firstdirdeletion`) is a basic shell script that deletes the directory named `my_first_directory` from the `/tmp/` directory when executed.
+To run the script, make it executable with the command:
