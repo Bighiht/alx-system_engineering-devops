@@ -13,3 +13,7 @@ To run the script, make it executable with the command:
 # Task 3: List Contents of Current Directory in Long Format
 This script (`3-listfiles`) is a basic shell script that displays the contents of the current directory in a long format when executed.
 To run the script, make it executable with the command:
+
+# Task 4: List Contents of Current Directory (including Hidden Files) in Long Format
+This script (`4-listmorefiles`) is a basic shell script that displays the contents of the current directory, including hidden files, in a long format when executed.
+To run the script, make it executable with the command:
