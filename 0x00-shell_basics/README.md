@@ -66,3 +66,7 @@ To run the script, make it executable with the command:
 # Task 102: Create Directories
 This script (`102-tree`) is a shell script that creates the directories `welcome/`, `welcome/to/`, and `welcome/to/school` in the current directory when executed.
 To run the script, make it executable with the command:
+
+# Task 103: List Files with Commas
+This command lists all files and directories in the current directory, separated by commas, while ensuring directory names end with a slash and special files `.`, `..`, and filenames starting with a dot are included and sorted correctly.
+To use this command, run it in the terminal of the desired directory:
