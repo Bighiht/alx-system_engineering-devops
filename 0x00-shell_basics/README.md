@@ -37,3 +37,7 @@ To run the script, make it executable with the command:
 # Task 10: Change to Previous Directory
 This script (`10-back`) is a basic shell script that changes the working directory to the previous one when executed.
 To run the script, make it executable with the command:
+
+# Task 11: List Files in Multiple Directories (Long Format)
+This script (`11-lists`) is a basic shell script that lists all files, including hidden ones, in the current directory, the parent directory, and the `/boot` directory, in long format.
+To run the script, make it executable with the command:
