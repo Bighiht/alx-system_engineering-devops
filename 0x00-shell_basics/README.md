@@ -19,7 +19,8 @@ This script (`4-listmorefiles`) is a basic shell script that displays the conten
 To run the script, make it executable with the command:
 
 # Task 5: List Contents of Current Directory (Long Format, Numerical User and Group IDs, Including Hidden Files)
-This script (`5-listfilesdigitonly`) is a basic shell script that displays the contents of the current directory in a long format, with user and group IDs displayed numerically, including hidden files, when executed.
+This script (`5-listfilesdigitonly`) is a basic shell script that displays the contents of the current directory in a long format, w
+the user and group IDs displayed numerically, including hidden files, when executed.
 To run the script, make it executable with the command:
 
 # Task 6: Create a Directory
@@ -40,4 +41,8 @@ To run the script, make it executable with the command:
 
 # Task 11: List Files in Multiple Directories (Long Format)
 This script (`11-lists`) is a basic shell script that lists all files, including hidden ones, in the current directory, the parent directory, and the `/boot` directory, in long format.
+To run the script, make it executable with the command:
+
+# Task 12: Print File Type
+This script (`12-file_type`) is a basic shell script that prints the type of the file named `iamafile` located in the `/tmp` directory when executed.
 To run the script, make it executable with the command:
