@@ -23,3 +23,9 @@ To run the script, make it executable with the command:
 This script (`5-listfilesdigitonly`) is a basic shell script that displays the contents of the current directory in a long format, with user and group IDs displayed numerically, including hidden files, when executed.
 
 To run the script, make it executable with the command:
+
+# Task 6: Create a Directory
+
+This script (`6-firstdirectory`) is a basic shell script that creates a directory named `my_first_directory` in the `/tmp/` directory when executed.
+
+To run the script, make it executable with the command:
