@@ -70,3 +70,5 @@ To run the script, make it executable with the command:
 # Task 103: List Files with Commas
 This command lists all files and directories in the current directory, separated by commas, while ensuring directory names end with a slash and special files `.`, `..`, and filenames starting with a dot are included and sorted correctly.
 To use this command, run it in the terminal of the desired directory:
+
+# Task 105: 
