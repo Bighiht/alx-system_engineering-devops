@@ -46,3 +46,7 @@ To run the script, make it executable with the command:
 # Task 12: Print File Type
 This script (`12-file_type`) is a basic shell script that prints the type of the file named `iamafile` located in the `/tmp` directory when executed.
 To run the script, make it executable with the command:
+
+# Task 13: Create a Symbolic Link
+This script (`13-symbolic_link`) is a basic shell script that creates a symbolic link named `__ls__` to `/bin/ls` in the current working directory when executed.
+To run the script, make it executable with the command:
