@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p -a | awk '{ORS = NR % 2 ? ", " : "\n"} 1' | sed 's/,$//'
+ls -pa | sed ':a;N;$!ba;s/\n/, /g' | sed 's/,$/\n/' | sed 's/\([^,]*\),/\1/g' | sed 's/\(.*\)\/,\(.*\)/\1\//'
