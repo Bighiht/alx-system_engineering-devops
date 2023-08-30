@@ -54,3 +54,7 @@ To run the script, make it executable with the command:
 # Task 14: Copy HTML Files to Parent Directory
 This script (`14-copy_html`) is a basic shell script that copies HTML files from the current working directory to the parent directory, but only if the files are newer or don't exist in the parent directory.
 To run the script, make it executable with the command:
+
+# Task 100: Move Uppercase Files
+This script (`100-lets_move`) is a shell script that moves files beginning with an uppercase letter from the current working directory to the directory `/tmp/u` when executed.
+To run the script, make it executable with the command:
