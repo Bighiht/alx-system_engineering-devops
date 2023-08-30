@@ -33,3 +33,7 @@ To run the script, make it executable with the command:
 # Task 9: Delete a Directory
 This script (`9-firstdirdeletion`) is a basic shell script that deletes the directory named `my_first_directory` from the `/tmp/` directory when executed.
 To run the script, make it executable with the command:
+
+# Task 10: Change to Previous Directory
+This script (`10-back`) is a basic shell script that changes the working directory to the previous one when executed.
+To run the script, make it executable with the command:
