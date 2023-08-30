@@ -62,3 +62,7 @@ To run the script, make it executable with the command:
 # Task 101: Clean Emacs Files
 This script (`101-clean_emacs`) is a shell script that deletes all files in the current working directory that end with the character `~` when executed.
 To run the script, make it executable with the command:
+
+# Task 102: Create Directories
+This script (`102-tree`) is a shell script that creates the directories `welcome/`, `welcome/to/`, and `welcome/to/school` in the current directory when executed.
+To run the script, make it executable with the command:
