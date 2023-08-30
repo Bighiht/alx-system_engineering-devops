@@ -6,3 +6,6 @@ To run the script, make it executable with the command:
 This script (`1-listit`) is a basic shell script that displays the contents list of the current directory when executed.
 To run the script, make it executable with the command:
 
+# Task 2: Change Working Directory to Home
+This script (`2-bring_me_home`) is a basic shell script that changes the working directory to the user's home directory when executed.
+To run the script, make it executable with the command:
