@@ -17,3 +17,9 @@ To run the script, make it executable with the command:
 # Task 4: List Contents of Current Directory (including Hidden Files) in Long Format
 This script (`4-listmorefiles`) is a basic shell script that displays the contents of the current directory, including hidden files, in a long format when executed.
 To run the script, make it executable with the command:
+
+# Task 5: List Contents of Current Directory (Long Format, Numerical User and Group IDs, Including Hidden Files)
+
+This script (`5-listfilesdigitonly`) is a basic shell script that displays the contents of the current directory in a long format, with user and group IDs displayed numerically, including hidden files, when executed.
+
+To run the script, make it executable with the command:
