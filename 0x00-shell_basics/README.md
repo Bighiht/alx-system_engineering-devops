@@ -58,3 +58,7 @@ To run the script, make it executable with the command:
 # Task 100: Move Uppercase Files
 This script (`100-lets_move`) is a shell script that moves files beginning with an uppercase letter from the current working directory to the directory `/tmp/u` when executed.
 To run the script, make it executable with the command:
+
+# Task 101: Clean Emacs Files
+This script (`101-clean_emacs`) is a shell script that deletes all files in the current working directory that end with the character `~` when executed.
+To run the script, make it executable with the command:
